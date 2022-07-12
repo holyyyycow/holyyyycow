@@ -13,8 +13,8 @@ class Gallery extends React.Component{
         }
 
         return(
-            <div>
-                <h3><em>Sandbox</em></h3>
+            <div id="Gallery">
+                <h3>Sandbox</h3>
                 <p>test random</p>
                 <button onClick={randonaut}>click me</button>
                 <br/>
